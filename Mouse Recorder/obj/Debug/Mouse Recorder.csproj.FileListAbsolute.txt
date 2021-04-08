@@ -1,0 +1,13 @@
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\bin\Debug\WindowsFormsApp5.exe
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\bin\Debug\WindowsFormsApp5.exe.CodeAnalysisLog.xml
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\bin\Debug\WindowsFormsApp5.exe.lastcodeanalysissucceeded
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\Mouse Recorder.csprojAssemblyReference.cache
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\WindowsFormsApp5.options.resources
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\Mouse Recorder.csproj.GenerateResource.cache
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\Mouse Recorder.csproj.CoreCompileInputs.cache
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\WindowsFormsApp5.exe
+C:\Users\BossTurk\source\repos\Mouse Recorder\Mouse Recorder\obj\Debug\WindowsFormsApp5.pdb
